@@ -1,0 +1,124 @@
+{
+    "lng_intro_about2": "Witamy w aplikacji 64Gram Desktop.\nJest szybka i bezpieczna.",
+
+    "lng_settings_enhanced": "Rozszerzone ustawienia",
+    "lng_settings_network": "Sieć",
+    "lng_settings_net_speed_boost": "Zwiększenie szybkości przesyłania",
+    "lng_settings_show_message_id": "Pokaż ID wiadomości",
+    "lng_settings_button": "Przycisk",
+    "lng_settings_show_emoji_button_as_text": "Pokaż przycisk emoji jako tekst",
+    "lng_settings_show_repeater_option": "Pokaż opcję powtarzania",
+    "lng_settings_show_phone_number": "Pokaż numer telefonu",
+    "lng_settings_repeater_reply_to_orig_msg": "Odpowiedz na oryginalną wiadomość",
+    "lng_settings_disable_cloud_draft_sync": "Zatrzymaj synchronizację szkicy z chmury",
+    "lng_settings_hide_classic_forward": "Ukryj klasyczne przekazywanie",
+    "lng_settings_show_scheduled_button": "Zawsze pokazuj przycisk zaplanowanych",
+    "lng_settings_voice_chat": "Czat głosowy",
+	"lng_settings_stereo_mode": "Włącz tryb stereo",
+	"lng_settings_pin_voice_chat": "Przypnij na górze",
+	"lng_settings_unpin_voice_chat": "Odepnij",
+    "lng_settings_radio_controller": "Kontroler radiowy",
+    "lng_settings_auto_unmute": "Automatyczne wyłączenie wyciszenia",
+    "lng_settings_other": "Inne",
+    "lng_settings_hide_all_chats": "Ukryj folder „Wszystkie”",
+    "lng_settings_disable_link_warning": "Wyłącz ostrzeżenie o otwieranym linku",
+    "lng_settings_hide_messages": "Ukryj wiadomości od zablokowanego użytkownika",
+    "lng_settings_restart_hint": "OSTRZEŻENIE: Zmiana opcji oznaczonych kolorem czerwonym zacznie obowiązywać dopiero po ponownym uruchomieniu aplikacji.",
+
+    "lng_settings_skip_message": "Przejdź do następnego nieprzeczytanego czatu",
+    "lng_settings_skip_message_desc": "Uwaga: zezwala na skrót ALT+↑/↓, aby przejść do następnego nieprzeczytanego czatu",
+
+    "lng_net_speed_boost_title": "Zwiększenie szybkości sieci",
+    "lng_net_speed_boost_desc": "Ostrzeżenie: zmiana tego parametru na wysokie wartości w wolnych sieciach może pogorszyć sytuację. Używaj go na własne ryzyko.",
+    "lng_show_emoji_button_as_text_desc": "Uwaga: jeśli nie widzisz przycisku emoji, włącz tę opcję.",
+    "lng_radio_controller_desc": "Uwaga: Kontroler radiowy to eksperymentalny bot do kontrolowania sesji strumieniowego przesyłania muzyki.",
+    "lng_auto_unmute_desc": "Uwaga: automatycznie wyłączy wyciszenie po dołączeniu do czatu głosowego.",
+    "lng_settings_hide_messages_desc": "Uwaga: TO NIE JEST PRAWDZIWE UKRYWANIE! Wiadomości są nadal dostępne do wyświetlenia, ale tekst zostanie przekonwertowany na Spoiler, a multimedia nie będą automatycznie pobierane.",
+
+    "lng_net_speed_boost_default": "Wyłączone",
+    "lng_net_speed_boost_slight": "Niewielkie",
+    "lng_net_speed_boost_medium": "Średnie",
+    "lng_net_speed_boost_big": "Duże",
+
+    "lng_net_boost_restart_desc": "Musisz zrestartować aplikację, aby zmienić szybkości sieci.\n\nZrestartować teraz?",
+	"lng_show_messages_id_desc": "Uwaga: zmiany zaczną obowiązywać natychmiast po ponownym uruchomieniu.",
+
+	"lng_chat_restriction_reason": "Powód ograniczenia",
+	"lng_copy_restriction_reason": "Kopiuj powód ograniczenia",
+
+	"lng_context_copy_callback_data": "Kopiuj dane oddzwaniania",
+    "lng_context_forward_selected_no_quote": "Przekaż zaznaczone (bez cytowania)",
+    "lng_selected_forward_no_quote": "Przekaż (bez cytowania)",
+    "lng_context_forward_msg_old_selected": "Przekaż zaznaczone (Klasycznie)",
+    "lng_selected_forward_emoji_classic": "📠(Klasycznie)",
+
+    "lng_message_id": "ID wiadomości: ",
+
+    "lng_admin_log_banned_send_stickers2": "Wysyłanie naklejek",
+    "lng_admin_log_banned_send_gifs": "Wysyłanie GIFów",
+    "lng_admin_log_banned_send_games": "Wysyłanie gier",
+    "lng_admin_log_banned_use_inline": "Używanie botów liniowych (Inline)",
+    "lng_rights_chat_send_stickers2": "Wysyłać naklejki",
+    "lng_rights_chat_send_gifs": "Wysyłać GIFy",
+    "lng_rights_chat_send_games": "Wysyłać gry",
+    "lng_rights_chat_use_inline": "Używać botów liniowych (Inline)",
+
+    "lng_media_selected_gif#one": "{count} Gif",
+    "lng_media_selected_gif#other": "{count} Gify",
+    "lng_media_type_gifs": "Gify",
+    "lng_profile_gifs#one": "{count} gif",
+    "lng_profile_gifs#other": "{count} gify",
+    "lng_profile_gifs_header": "Gify",
+    "lng_media_gif_empty": "Tu jeszcze nie ma GIFów",
+
+    "lng_create_supergroup_title": "Nowa Super grupa",
+    "lng_action_group_migrate": "Grupa została zmieniona na super grupę",
+    "lng_sure_upgrade_group": "Czy na pewno chcesz zmienić tę grupę na super grupę?",
+    "lng_chat_upgrade_warning": "Uwaga: ta operacja jest nieodwracalna",
+
+	"lng_user_not_found": "404 Nie znaleziono użytkownika.\nUwaga: Musisz „widzieć” tego użytkownika zanim otworzysz ten link.",
+
+    "lng_settings_always_delete_for": "Zawsze wybrane usuwanie dla",
+    "lng_settings_delete_disabled": "Wyłączone",
+    "lng_settings_delete_for_group": "Grupy",
+    "lng_settings_delete_for_person": "Osoby",
+    "lng_settings_delete_for_both": "Dlaczego nie obu?",
+
+    "lng_title_forward_as_copy": "Kopiuj do…",
+    "lng_title_multiple_forward": "Przekaż do…",
+
+    "lng_context_forward_msg": "Do wielu",
+    "lng_context_forward_msg_old": "Do 1 odbiorcy",
+    "lng_context_show_messages_from": "Wiad. od użytkownika",
+    "lng_context_repeat_msg": "Jako przekazaną",
+    "lng_context_repeat_msg_no_fwd": "Jako kopię",
+    "lng_context_forward_msg_no_quote": "Jako kopię",
+    "lng_forward_to_saved_message": "Do Zapisanych",
+    "lng_context_repeater": "Powtórz",
+    "lng_context_forward": "Przekaż",
+
+    "lng_settings_enable_hd_video": "Wyższa szybkość transmisji wideo",
+    "lng_hd_video_hint": "Zmieniono szybkość transmisji wideo! Należy ponownie dołączyć do czatu wideo, jeśli już do niego dołączono.",
+
+    "lng_bitrate_controller": "Szybkość transmisji dźwięku",
+    "lng_bitrate_controller_desc": "Uwaga: zmiana tego parametru na wysoką wartość może mieć negatywny wpływ na użytkownika w wolnych sieciach.",
+    "lng_bitrate_controller_hint": "Zmieniono szybkość transmisji dźwięku! Należy ponownie dołączyć do czatu głosowego, jeśli już do niego dołączono.",
+
+    "lng_bitrate_controller_default": "Domyślna (32 Kbps)",
+    "lng_bitrate_controller_64k": "64 Kbps",
+    "lng_bitrate_controller_96k": "96 Kbps",
+    "lng_bitrate_controller_128k": "128 Kbps",
+    "lng_bitrate_controller_160k": "160 Kbps",
+    "lng_bitrate_controller_192k": "192 Kbps",
+    "lng_bitrate_controller_256k": "256 Kbps",
+    "lng_bitrate_controller_320k": "320 Kbps",
+
+    "lng_pinned_message_show": "Pokaż przypięte wiadomości",
+    "lng_pinned_message_hide": "Ukryj przypięte wiadomości",
+    "lng_pinned_message_view": "Wyświetl przypiętą wiadomość",
+    "lng_go_to_first_message": "Przejdź do pierwszej wiadomości",
+
+	"lng_proxy_remove_all": "Usuń wszystkie proxy",
+    
+    "lng_copy_profile_id": "ID został skopiowany do schowka."
+}
